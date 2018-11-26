@@ -1,9 +1,24 @@
-{ 
-  "packageDirectories" : [ 
-      { "path": "app", "default": true}, 
-      { "path" : "meta" }
+{
+    "packageDirectories": [
+        {
+            "path": "app",
+            "default": true
+        },
+        {
+            "path": "meta"
+        },
+        {
+            "path": ".",
+            "package": "catrescue",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
     ],
-  "namespace": "", 
-  "sfdcLoginUrl" : "https://login.salesforce.com", 
-  "sourceApiVersion": "44.0"
-  }
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "44.0",
+    "packageAliases": {
+        "catrescue": "0Ho61000000XZARCA4"
+    }
+}
