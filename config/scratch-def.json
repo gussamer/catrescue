@@ -1,8 +1,8 @@
 {
-    "orgName": "fflib",
+    "orgName": "catrescue",
     "hasSampleData": "true",
     "edition": "Developer",
-    "features": ["API","DebugApex","AuthorApex"],
+    "features": ["API","DebugApex","AuthorApex","ExpandedSourceTracking"],
     "settings": {
         "orgPreferenceSettings": {
             "s1DesktopEnabled": true
