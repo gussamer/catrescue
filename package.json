@@ -4,7 +4,12 @@
   "description": "the cat rescue app",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "install": "bash ./bin/install"
+    ,"test": "bash ./bin/test"
+    ,"build": "bash ./bin/build"
+    ,"deploy": "bash ./bin/deploy"
+    ,"push": "bash ./bin/push"
+    ,"scratch": "bash ./bin/scratch"
   },
   "keywords": [
     "cat",
