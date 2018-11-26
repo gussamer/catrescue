@@ -1,0 +1,15 @@
+{
+  "name": "catrescue",
+  "version": "1.0.0",
+  "description": "the cat rescue app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cat",
+    "rescue"
+  ],
+  "author": "Angus Alves",
+  "license": "MIT"
+}

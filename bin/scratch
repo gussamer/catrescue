@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+echo "sfdx force:org:create -f config/scratch-def.json -a catrescue -s"
+sfdx force:org:create -f config/scratch-def.json -a catrescue -s
